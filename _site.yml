@@ -1,8 +1,0 @@
-name: "andrewmasucci.github.io"
-navbar:
-  title: "Andrew Masucci"
-  left:
-    - text: "Home"
-      href: index.html
-    - text: "About"
-      href: about.html
