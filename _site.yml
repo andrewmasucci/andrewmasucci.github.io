@@ -1,6 +1,6 @@
-name: "R Markdown Websites Tutorial"
+name: "Andrew's Personal Web Page"
 navbar:
-  title: "HOME"
+  title: "Home"
   left:
     - text: "First Observations"
       href: first_observations.html
