@@ -2,6 +2,13 @@
 title: "Andrew Masucci"
 ---
 ----
+<center>
+
+![](images/SF_pic.jpg){width=30%} ![](images/Personal_pic_2.jpg){width=30%} ![](images/Oregon_pic.jpg){width=30%}
+
+</center>
+
+<br>
 
 ## Bio
 
@@ -12,6 +19,7 @@ System (OPPS) and the Inpatient Psychiatric Facility Prospective Payment System
 (IPF PPS). His professional and academic interests include population health, 
 chronic disease epidemiology, and value-based care.
 
+<br>
 
 ## Education
 
@@ -19,6 +27,7 @@ chronic disease epidemiology, and value-based care.
 
 B.A. in Public Health Studies | August 2014 - May 2018
 
+<br>
 
 ## Experience
 
