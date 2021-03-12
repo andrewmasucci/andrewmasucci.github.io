@@ -3,7 +3,9 @@ navbar:
   title: "Home"
   left:
     - text: "Under Construction"
-      href: under_construction.html
+      href: under_construction_show.html
+##    - text: "In Progress"
+##      href: complex_page.html
 output_dir: "."
 output:
   html_document:
