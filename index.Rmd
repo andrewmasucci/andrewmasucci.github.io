@@ -6,18 +6,19 @@ title: "Andrew Masucci"
 
 ![](images/SF_pic.jpg){width=30%} ![](images/Personal_pic_2.jpg){width=30%} ![](images/Oregon_pic.jpg){width=30%}
 
-</center>
 
-<br>
+[![](images/Linkedin_logo.png){width=10%}](linkedin.com/in/andrew-masucci) [![](images/GitHub-Logo.png){width=10%}](github.com/andrewmasucci) [![](images/twitter_logo.png){width=10%}](twitter.com/andrewmasucci)
+
+</center>
 
 ## Bio
 
-Andrew Masucci currently works as a Data and Policy Analyst at Acumen, LLC,
-providing analytical and research support for the Center for Medicare and 
-Medicaid Services (CMS) in the administration of the Outpatient Prospective Payment 
-System (OPPS) and the Inpatient Psychiatric Facility Prospective Payment System
-(IPF PPS). His professional and academic interests include population health, 
-chronic disease epidemiology, and value-based care.
+Andrew Masucci currently lives in Washington, DC, working as a Data and Policy 
+Analyst at Acumen, LLC. In this role, Andrew provides analytical and research 
+support for the Center for Medicare and Medicaid Services (CMS) in the 
+administration of the Outpatient Prospective Payment System (OPPS) and the Inpatient Psychiatric Facility Prospective Payment System (IPF PPS). His professional and 
+academic interests include population health, chronic disease epidemiology, and 
+value-based care.
 
 <br>
 
