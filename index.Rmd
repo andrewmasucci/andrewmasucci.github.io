@@ -7,9 +7,7 @@ title: "Andrew Masucci"
 ![](images/SF_pic.jpg){width=30%} ![](images/Personal_pic_2.jpg){width=30%} ![](images/Oregon_pic.jpg){width=30%}
 <br>
 
-[<a href="#" class="btn btn-primary btn-sm">LinkedIn</a>](https://linkedin.com/in/andrew-masucci)
-[<a href="#" class="btn btn-primary btn-sm">GitHub</a>](https://github.com/andrewmasucci)
-[<a href="#" class="btn btn-primary btn-sm">Twitter</a>](https://twitter.com/andrewmasucci)
+[![](images/Linkedin_logo.png){width=8%}](https://linkedin.com/in/andrew-masucci) [![](images/GitHub-Logo.png){width=8%}](https://github.com/andrewmasucci) [![](images/twitter_logo.png){width=8%}](https://twitter.com/andrewmasucci)
 
 </center>
 
