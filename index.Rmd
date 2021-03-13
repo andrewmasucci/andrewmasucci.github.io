@@ -5,17 +5,19 @@ title: "Andrew Masucci"
 <center>
 
 ![](images/SF_pic.jpg){width=30%} ![](images/Personal_pic_2.jpg){width=30%} ![](images/Oregon_pic.jpg){width=30%}
+<br>
 
-
-[![](images/Linkedin_logo.png){width=8%}](https://linkedin.com/in/andrew-masucci) [![](images/GitHub-Logo.png){width=8%}](https://github.com/andrewmasucci) [![](images/twitter_logo.png){width=8%}](https://twitter.com/andrewmasucci)
+[<a href="#" class="btn btn-primary btn-sm">LinkedIn</a>](https://linkedin.com/in/andrew-masucci)
+[<a href="#" class="btn btn-primary btn-sm">GitHub</a>](https://github.com/andrewmasucci)
+[<a href="#" class="btn btn-primary btn-sm">Twitter</a>](https://twitter.com/andrewmasucci)
 
 </center>
 
 ## Bio
 
-Andrew Masucci currently lives in Washington, DC, working as a Data and Policy 
+Andrew currently lives in Washington, DC, working as a Data and Policy 
 Analyst at Acumen, LLC. In this role, Andrew provides analytical and research 
-support for the Center for Medicare and Medicaid Services (CMS) in the 
+support for the Centers for Medicare and Medicaid Services (CMS) in the 
 administration of the Outpatient Prospective Payment System (OPPS) and the Inpatient Psychiatric Facility Prospective Payment System (IPF PPS). His professional and 
 academic interests include population health, chronic disease epidemiology, and 
 value-based care.
@@ -35,3 +37,10 @@ B.A. in Public Health Studies | August 2014 - May 2018
 **Acumen, LLC** | Data and Policy Analyst | April 2020 - Present
 
 **Collective Health** | Plan Operations Associate | July 2018 - March 2020
+
+<br>
+
+<blockquote>
+  <p>*No man ever steps in the same river twice, for it's not the same river and he's not the same man.*</p>
+  <small>*Heraclitus*</small>
+</blockquote>

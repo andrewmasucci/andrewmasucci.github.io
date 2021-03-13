@@ -9,7 +9,7 @@ navbar:
 output_dir: "."
 output:
   html_document:
-    theme: yeti
+    theme: sandstone
     highlight: textmate
 #    include:
 #      after_body: _footer.html
